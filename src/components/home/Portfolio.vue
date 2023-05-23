@@ -41,27 +41,27 @@
     const webApps = [
         {
             "title": "Item 1",
-            "image": "https://via.placeholder.com/350x150/E91E63/FFFFFF"
+            "image": "/images/project/1.jpg"
         },
         {
             "title": "Item 2",
-            "image": "https://via.placeholder.com/350x150/E91E63/FFFFFF"
+            "image": "/images/project/2.jpg"
         },
         {
             "title": "Item 3",
-            "image": "https://via.placeholder.com/350x150/E91E63/FFFFFF"
+            "image": "/images/project/3.jpg"
         },
         {
             "title": "Item 4",
-            "image": "https://via.placeholder.com/350x150/E91E63/FFFFFF"
+            "image": "/images/project/4.jpg"
         },
         {
             "title": "Item 5",
-            "image": "https://via.placeholder.com/350x150/E91E63/FFFFFF"
+            "image": "/images/project/1.jpg"
         },
         {
             "title": "Item 6",
-            "image": "https://via.placeholder.com/350x150/E91E63/FFFFFF"
+            "image": "/images/project/2.jpg"
         },
 
     ]
